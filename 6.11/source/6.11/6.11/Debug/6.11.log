@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\user\onedrive - 國立臺北科技大學\桌面\6.11\source\main.c(7): warning C4101: 'tmp': 未參考的區域變數
+c:\users\user\onedrive - 國立臺北科技大學\桌面\6.11\source\main.c(7): warning C4101: 'j': 未參考的區域變數
+  6.11.vcxproj -> C:\Users\User\OneDrive - 國立臺北科技大學\桌面\6.11\source\6.11\Debug\6.11.exe
